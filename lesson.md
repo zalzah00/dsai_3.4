@@ -4,7 +4,13 @@
 
 ### Preparation
 
-We will be using the `ml` environment for this lesson.
+We will be using the `ml` environment for this lesson. 
+
+For the additional section on decision tree visualization, we will use 'ml-tree' environment, the environment.yml is attached in this repository. To create the 'ml-tree' environment, run 
+```bash
+conda env create -f environment.yml
+```
+in the command line terminal, in the root directory of this repository
 
 ### Lesson Overview
 
